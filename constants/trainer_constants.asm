@@ -273,7 +273,7 @@ KRIS EQU __enum__
 	const BRENT4
 	const MILLER
 
-	trainerclass GRUNTM ; 1f
+	trainerclass TEAM ROCKET ; 1f
 	const GRUNTM_1
 	const GRUNTM_2
 	const GRUNTM_3
@@ -680,17 +680,17 @@ KRIS EQU __enum__
 	const GEORGIA
 	const JAIME
 
-	trainerclass RED ; 3f
-	const RED1
+	trainerclass RONALD ; 3f
+	const RONALD
 
-	trainerclass BLUE ; 40
+	trainerclass PERCY ; 40
 	const BLUE1
 
 	trainerclass OFFICER ; 41
 	const KEITH
 	const DIRK
 
-	trainerclass GRUNTF ; 42
+	trainerclass TEAM ROCKET ; 42
 	const GRUNTF_1
 	const GRUNTF_2
 	const GRUNTF_3
