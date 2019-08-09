@@ -373,7 +373,7 @@ KRIS EQU __enum__
 	const RALPH5
 	const TULLY4
 
-	trainerclass SWIMMERM ; 26
+	trainerclass ROCKET ADMIN ; 26
 	const HAROLD
 	const SIMON
 	const RANDALL
@@ -396,7 +396,7 @@ KRIS EQU __enum__
 	const LEWIS
 	const PARKER
 
-	trainerclass SWIMMERF ; 27
+	trainerclass ROCKET ADMIN ; 27
 	const ELAINE
 	const PAULA
 	const KAYLEE
@@ -413,7 +413,7 @@ KRIS EQU __enum__
 	const NICOLE
 	const LORI
 	const JODY
-	const NIKKI
+	const RIKKI
 	const DIANA
 	const BRIANA
 
@@ -448,7 +448,7 @@ KRIS EQU __enum__
 	const HUGH
 	const MARKUS
 
-	trainerclass RIVAL2 ; 2a
+	trainerclass PKMN TRAINER ; 2a
 	const RIVAL2_1_CHIKORITA
 	const RIVAL2_1_CYNDAQUIL
 	const RIVAL2_1_TOTODILE
@@ -484,7 +484,7 @@ KRIS EQU __enum__
 	const ANTHONY4
 	const ANTHONY5
 
-	trainerclass BIKER ; 2d
+	trainerclass ROCKET ADMIN ; 2d
 	const BIKER_BENNY
 	const KAZU
 	const DWAYNE
@@ -498,12 +498,12 @@ KRIS EQU __enum__
 	trainerclass BLAINE ; 2e
 	const BLAINE1
 
-	trainerclass BURGLAR ; 2f
+	trainerclass ROCKET ADMIN ; 2f
 	const DUNCAN
 	const EDDIE
 	const COREY
 
-	trainerclass FIREBREATHER ; 30
+	trainerclass ROCKET ADMIN ; 30
 	const OTIS
 	const DICK
 	const NED
@@ -532,11 +532,11 @@ KRIS EQU __enum__
 	const KENJI3
 	const WAI
 
-	trainerclass EXECUTIVEM ; 33
-	const EXECUTIVEM_1
-	const EXECUTIVEM_2
-	const EXECUTIVEM_3
-	const EXECUTIVEM_4
+	trainerclass ROCKET ADMIN ; 33
+	const NEUTRON
+	const ELECTRON
+	const PROTON
+
 
 	trainerclass PSYCHIC_T ; 34
 	const NATHAN
